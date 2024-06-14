@@ -5,6 +5,6 @@
   
 ## 💻 My Tech Stack:
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,git,tailwind,nodejs,ejs,react,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,git,tailwind,nodejs,express,react,)](https://skillicons.dev)
   
 </div>
